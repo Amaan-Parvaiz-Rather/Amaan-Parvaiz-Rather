@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Pirsuing my degree in Computer science<br>👯 I’m looking to contribute on projects.<br>🌱 I’m currently learning MERN .<br>⚡ I am a football lover
+🔭 I’m currently Pursuing my degree in Computer science<br>👯 I’m looking to contribute on projects.<br>🌱 I’m currently learning MERN .<br>⚡ I am a football lover
 
 
 ## 🌐 Socials:
